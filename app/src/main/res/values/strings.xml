@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">DH_Rest</string>
+    <string name="app_name">Cozinha do Tadashi</string>
+    <string name="loginMsg">Olá!\nDigite com cuidado, e se quiser salvar seus dados para a próxima visita, marque a opção \"salvar dados\".</string>
 </resources>
