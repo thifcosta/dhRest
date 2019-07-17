@@ -9,8 +9,8 @@
         android:roundIcon="@mipmap/icon_front_tadashi_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
-        <activity android:name=".Model.ChefEspecialidades"></activity>
-        <activity android:name=".TadashiTypeSelected" />
+        <activity android:name=".PratoDetalhe"></activity>
+        <activity android:name=".ChefEspecialidades" />
         <activity android:name=".LoginActivity" />
         <activity android:name=".MainActivity" />
         <activity android:name=".SplashActivity">

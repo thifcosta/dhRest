@@ -5,5 +5,4 @@ public class Constantes {
     public static String NOME = "NOME";
     public static String EMAIL = "EMAIL";
     public static String SHARED_PREFERENCES = "COZINHADOTADASHI";
-
 }

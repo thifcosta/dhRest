@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Cozinha do Tadashi</string>
-    <string name="loginMsg">Olá!\nDigite com cuidado, e se quiser salvar seus dados para a próxima visita, marque a opção \"salvar dados\".</string>
+    <string name="loginMsg">Olá!\n\nDigite com cuidado, e se quiser salvar seus dados para a próxima visita, marque a opção \"salvar dados\".</string>
+    <string name="tempReceita">Se mesmo sem os dados os pratos já \nestão apetitosos, imagine quando este \nApp estiver pronto!</string>
 </resources>

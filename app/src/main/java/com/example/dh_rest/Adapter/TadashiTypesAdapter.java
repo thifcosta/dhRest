@@ -65,7 +65,7 @@ public class TadashiTypesAdapter extends RecyclerView.Adapter<TadashiTypesAdapte
         public void setupTadashi(TadashiTypes tadashiTypes) {
             tadashiTypesNome.setText(tadashiTypes.getNome());
             tadashiTypesDefinition.setText(tadashiTypes.getDefinition());
-            tadashiTypesImage.setImageResource(tadashiTypes.getImagem());
+            tadashiTypesImage.setImageResource(tadashiTypes.getPersonaImage());
         }
 
     }
